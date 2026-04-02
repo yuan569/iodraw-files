@@ -32,7 +32,10 @@
           <mxGeometry x="260" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8_4P87sVmlKJ2_Q_7hwO-11" value="18877778888" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="180" width="120" height="30" as="geometry" />
+          <mxGeometry x="460" y="595" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_4P87sVmlKJ2_Q_7hwO-12" value="输入手机号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="180" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
