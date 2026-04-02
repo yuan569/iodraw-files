@@ -74,7 +74,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8_4P87sVmlKJ2_Q_7hwO-24" value="请求接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="620" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8_4P87sVmlKJ2_Q_7hwO-25" value="retCode：0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="920" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
