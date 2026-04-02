@@ -61,8 +61,8 @@
         <mxCell id="8_4P87sVmlKJ2_Q_7hwO-20" value="retCode：1007" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8_4P87sVmlKJ2_Q_7hwO-21" value="老用户跳转到下载页" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="120" height="80" as="geometry" />
+        <mxCell id="8_4P87sVmlKJ2_Q_7hwO-21" value="老用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
